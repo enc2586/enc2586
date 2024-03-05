@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm a high school student wishing to be a <b>full stack web developer</b>. 🚀<br/>
+  👋&nbsp; Hi there! I'm a college student wishing to be a <b>full stack web developer</b>. 🚀<br/>
   I work primarily with React and NestJS, and I'm also interested in Next.js. 🔭<br/>
   Now using and learning cloud service such as AWS and Cloudflare too. ☁️<br/><br/>
   I enjoy skiing, swimming, gaming and traveling. ⛷️ 🎮 ✈️<br/>
