@@ -5,11 +5,13 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm a college student wishing to be a <b>full stack web developer</b>. 🚀<br/>
-  I work primarily with React and NestJS, and I'm also interested in Next.js. 🔭<br/>
+  👋&nbsp; Hi there! I'm a college student wishing to be a <b>developer</b>. 👨‍💻<br/>
+  Until now I'm on web side a bit, with some experiences on React, NextJS, and Next.js. (Even running a small business!)<br />
+  But I didn't (and probably won't) select a single area for my career; instead I wish to dip in various areas.<br />
+  Now I'm digging in embedded computing and comms- for rockets! 🔭 🚀 ⭐<br/>
   Now using and learning cloud service such as AWS and Cloudflare too. ☁️<br/><br/>
-  I enjoy skiing, swimming, gaming and traveling. ⛷️ 🎮 ✈️<br/>
-  I hope to create useful services. ✨ <br/><br/>
+  I enjoy skiing, swimming, gaming and traveling(especially Japan). ⛷️ 🎮 ✈️<br/>
+  I hope to create useful stuffs with code. ✨ <br/><br/>
 </p>
 
 ### 💪 Skills
