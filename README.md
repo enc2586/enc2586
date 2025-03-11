@@ -10,7 +10,7 @@
   But I didn't (and probably won't) select a single area for my career; instead I wish to dip in various areas.<br />
   Now I'm digging in embedded computing and comms- for rockets! 🔭 🚀 ⭐<br/>
   Now using and learning cloud service such as AWS and Cloudflare too. ☁️<br/><br/>
-  I enjoy skiing, swimming, gaming and traveling (especially to Japan). ⛷️ 🎮 ✈️<br/>
+  I enjoy skiing, swimming, gaming and traveling (usually to Japan). ⛷️ 🎮 ✈️<br/>
   I hope to create useful stuffs with code. ✨ <br/><br/>
 </p>
 
