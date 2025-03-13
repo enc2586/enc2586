@@ -6,7 +6,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm a college student wishing to be a <b>developer</b>. 👨‍💻<br/>
-  Until now I'm on web side a bit, with some experiences in React, NextJS, and Nest.js. (Even running a small business!)<br />
+  Until now I'm on web side a bit, with some experiences in React, NestJS, and Next.js. (Even running a small business!)<br />
   But I didn't (and probably won't) select a single area for my career; instead I wish to dip in various areas.<br />
   Now I'm digging in embedded computing and comms- for rockets! 🔭 🚀 ⭐<br/>
   Now using and learning cloud service such as AWS and Cloudflare too. ☁️<br/><br/>
